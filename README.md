@@ -1,4 +1,5 @@
 # Exploiting an intermediate latent space between photo and sketch for face photo-sketch recognition
+
 #### Seho Bae, Nizam Ud Din, Hyunkyu Park, and Juneho Yi
 
 ## Abstract
