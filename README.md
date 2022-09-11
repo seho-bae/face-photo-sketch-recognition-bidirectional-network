@@ -14,9 +14,9 @@ Tensorflow code will be uploaded.
 
 ## Training
 
-<p align="center"><img src="training.png" title="training" alt="training"></img></>
-
 Our network has been trained through three-step training scheme.
+
+<p align="center"><img src="training.png" title="training" alt="training"></img></>
 
 (step 0)
 The bidirectional photo/sketch synthesis network is trained using photo and sketch samples. We have used [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html, "cufs") dataset.
