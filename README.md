@@ -13,6 +13,9 @@ Tensorflow 1.8
 Tensorflow code will be uploaded.
 
 ## Training
+
+<p align="center"><img src="training.png" title="training" alt="training"></img></>
+
 Our network has been trained through three-step training scheme.
 
 (step 0)
