@@ -10,8 +10,6 @@ The photo-sketch matching problem is challenging because modality gap between ph
 ## Prerequisite
 Tensorflow 1.8
 
-Tensorflow code will be uploaded.
-
 ## Training
 
 Our network has been trained through three-step training scheme.
